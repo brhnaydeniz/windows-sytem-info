@@ -9,7 +9,7 @@ Information you will have:
 * Processor
 
 ### Sample Output
-uname_result(
+uname_result(  
               system='Windows',  
               node='Admin',  
               release='10',  
